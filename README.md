@@ -11,7 +11,5 @@ Classification was done using AutoML models from libraries such as AutoGluon & T
 
 !pip install bokeh
 
-!pip install tensorflow
-
 # Contributing
 If you'd like to contribute to this project, please open an issue or submit a pull request. Your contributions are greatly appreciated!
